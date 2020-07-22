@@ -1,5 +1,7 @@
 # Inbox Solidity Contract (Hello World Aplication)
 
+A simple solidity contract which stores and provides a setter to a message.
+
 ## Installation
 
 Install the dependencies and devDependencies and start the server.
