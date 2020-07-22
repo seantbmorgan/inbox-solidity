@@ -1,0 +1,19 @@
+{
+  "name": "inbox",
+  "version": "1.0.0",
+  "description": "A boilerplate etherium daap.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "npm deploy.js",
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.9.1",
+    "mocha": "^8.0.1",
+    "solc": "^0.6.11",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.2.11"
+  }
+}
